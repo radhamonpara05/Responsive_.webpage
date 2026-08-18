@@ -40,7 +40,19 @@ It supports:
 
 ![Responsive Web Page](./images/responsive1.png)
 ![Responsive Web Page](./images/responsive2.png)
-![Responsive Web Page](./images/responsive3.png)
+![Responsive Web Page](./images/responsiv3.png)
+
+# Tablet 
+
+![Responsive Web Page](./images/tablet1.png)
+![Responsive Web Page](./images/tablet2.png)
+![Responsive Web Page](./images/tablet3.png)
+
+# Mobile 
+
+![Responsive Web Page](./images/mobile1.png)<br>
+![Responsive Web Page](./images/mobile2.png)<br>
+![Responsive Web Page](./images/mobile3.png)
 
 ## 🎯 Purpose
 
